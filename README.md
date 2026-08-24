@@ -48,9 +48,9 @@ jupyter notebook notebooks/       # or open in Google Colab
 
 | Member | Owns |
 |---|---|
-| Member 1 | Data pipeline, feature engineering, DBSCAN / Isolation Forest, risk score |
-| Member 2 | API integration, auth, polling, caching, error handling |
-| Member 3 | Dashboard (folium/Streamlit), recommendation display, demo integration |
+| Asif Ali (103) [lead] | Data pipeline, feature engineering, DBSCAN / Isolation Forest, risk score |
+| Asif Ali (104) | API integration, auth, polling, caching, error handling |
+| Kashish Bai | Dashboard (folium/Streamlit), recommendation display, demo integration |
 
 ## Status
 
